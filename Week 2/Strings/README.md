@@ -4,29 +4,29 @@ Manipulating Text. Need for Text processing is increasingly important.
 
 **Table of Contents**:
 
-- [Basics and Features](#basics-and-features)
-- [Operation on String](#operations-on-strings)
-- [Extracting Substrings](#extracting-substrings)
-- [Modifying String](#modifying-strings)
+-   [Basics and Features](#basics-and-features)
+-   [Operation on String](#operations-on-strings)
+-   [Extracting Substrings](#extracting-substrings)
+-   [Modifying String](#modifying-strings)
 
 ## Basics and Features
 
 For text, python uses type `str`.
 
-- It's a sequence of characters
-- A single character is a string of length 1.
-- No `char` type.
-- Can use single, double, even triple quotes.
+-   It's a sequence of characters
+-   A single character is a string of length 1.
+-   No `char` type.
+-   Can use single, double, even triple quotes.
 
 eg:
 
 ```python
 name = 'Kunal'
 thing = "Kunal's laptop" # use of ' inside the "".
-speech = '''Jaswin said, "He was sleeping"'''
+speech = '''Jaswin said, "I was sleeping"'''
 ```
 
-- Each character has a position in a string.
+-   Each character has a position in a string.
 
 eg:
 
@@ -34,17 +34,17 @@ eg:
 name = "Kumar"
 ```
 
-|Position | 0 | 1 | 2 | 3 | 4 |
-| - | - | - | - | - | - |
-|String | K | u | m | a | r |
-| Reverse | -5 | -4 | -3 | -2 | -1 |
+| Position | 0   | 1   | 2   | 3   | 4   |
+| -------- | --- | --- | --- | --- | --- |
+| String   | K   | u   | m   | a   | r   |
+| Reverse  | -5  | -4  | -3  | -2  | -1  |
 
-- Position -1, -2 count backwards.
+-   Position -1, -2 count backwards.
 
 ## Operations on Strings
 
-- Combine two strings, (concatenations) using `+`.
-- `len(s)` returns the length of string `s`.
+-   Combine two strings, (concatenations) using `+`.
+-   `len(s)` returns the length of string `s`.
 
 ## Extracting substrings
 
@@ -56,10 +56,10 @@ eg:
 name = "Surendar"
 ```
 
-- `name[0:4]` is "Sure".
-- `name[i:j]` starts at `name[i]` and ends at `name[j-1]`.
-- `name[:j]` starts at `name[0]`.
-- `name[i:]` ends at `name[les(s)-1]`.
+-   `name[0:4]` is "Sure".
+-   `name[i:j]` starts at `name[i]` and ends at `name[j-1]`.
+-   `name[:j]` starts at `name[0]`.
+-   `name[i:]` ends at `name[les(s)-1]`.
 
 ## Modifying strings
 
