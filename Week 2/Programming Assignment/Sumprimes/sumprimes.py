@@ -10,11 +10,11 @@ def isPrime(num):
 
 
 def sumprimes(list):
-    sumList = []
+    total = 0
     for i in list:
         if(isPrime(i)):
-            sumList.append(i)
-    return sum(sumList)
+            total += i
+    return total
 
 
 print(sumprimes([-3,1,6]))

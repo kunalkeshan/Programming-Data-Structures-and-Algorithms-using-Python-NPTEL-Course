@@ -12,3 +12,11 @@ sumprimes([2,4,6,9,11])
 sumprimes([-3,1,6])
 # 0
 ```
+
+## Algorithm
+
+- Take in list of numbers.
+- Initialize a `total` value of 0.
+- Check if each number is a prime
+- If number is a prime, then add it to the `total`.
+- Return `total`, once loop is completely iterated.
