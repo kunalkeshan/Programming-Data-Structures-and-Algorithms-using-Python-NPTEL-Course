@@ -1,10 +1,19 @@
 def matched(string):
-    isMatched = True
-    for i in range(0, len(string)):
-        if(string[i] == "("):
-            print(-i-1, string[-i-1])
-        elif(string[i] == ")"):
-            print(-i-1, string[-i-1])
-    return isMatched
+    open_list = ["("]
+    closed_list = [")"]
+    check = []
+    for char in string:
+        if char in open_list:
+            check.append(char)
+        elif char in closed_list:
+            pos = closed_list.index(char)
+            if(len(check) > 0) and (open_list[pos] == check[len(check) - 1]):
+                check.pop()
+            else:
+                return False
+    if(len(check) == 0):
+        return True
+    else:
+        return False
 
-print(matched("(7)(a"))
+print(matched("((jkl)78(A)&l(8(dd(FJI:),):)?)"))
