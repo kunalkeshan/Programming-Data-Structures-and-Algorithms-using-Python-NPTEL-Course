@@ -13,4 +13,7 @@ Weekly notes and programs for the Programming, Data Structures and Algorithms us
   - [Lecture 4: Control Flow](/Week%202/Control%20Flow)
   - [Lecture 5: Functions](/Week%202/Functions)
   - [Lecture 6: Examples](/Week%202/Examples)
+  - [Programming Assignment](/Week%202/Programming%20Assignment)
+- [Week 3](/Week%203)
+  - [Lecture 1: More about `range()`](/Week%203/More%20About%20range())
   
