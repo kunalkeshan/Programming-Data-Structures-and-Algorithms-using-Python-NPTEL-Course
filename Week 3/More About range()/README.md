@@ -2,9 +2,12 @@
 
 **Table of Contents**:
 
+- [Introduction](#introduction)
 - [General Rule for `range(i,j,k)`](#general-rule-for-rangeijk)
 - [Why does `range(i,j)` stop at `j-1`](#why-does-rangei-j-stop-at-j-1)
 - [`range()` and lists](#range-and-lists)
+
+## Introduction
 
 - `range(i, j)` produces the sequence i, i+1, ..., j-1.
 - `range(j)` automatically starts from 0, 1, ..., j-1.
