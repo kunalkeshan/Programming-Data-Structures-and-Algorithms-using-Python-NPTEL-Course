@@ -16,4 +16,5 @@ Weekly notes and programs for the Programming, Data Structures and Algorithms us
   - [Programming Assignment](/Week%202/Programming%20Assignment)
 - [Week 3](/Week%203)
   - [Lecture 1: More about `range()`](/Week%203/More%20About%20range())
+  - [Lecture 2: Manipulating Lists](/Week%203/Manipulating%20Lists)
   
