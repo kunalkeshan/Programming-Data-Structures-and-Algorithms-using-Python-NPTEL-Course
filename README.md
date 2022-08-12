@@ -17,4 +17,5 @@ Weekly notes and programs for the Programming, Data Structures and Algorithms us
 - [Week 3](/Week%203)
   - [Lecture 1: More about `range()`](/Week%203/More%20About%20range())
   - [Lecture 2: Manipulating Lists](/Week%203/Manipulating%20Lists)
+  - [Lecture 3: Breaking out of a Loop](/Week%203/Breaking%20out%20of%20a%20Loop)
   
