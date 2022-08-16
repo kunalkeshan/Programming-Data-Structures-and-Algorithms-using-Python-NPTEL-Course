@@ -19,4 +19,5 @@ Weekly notes and programs for the Programming, Data Structures and Algorithms us
   - [Lecture 2: Manipulating Lists](/Week%203/Manipulating%20Lists)
   - [Lecture 3: Breaking out of a Loop](/Week%203/Breaking%20out%20of%20a%20Loop)
   - [Lecture 4: Arrays vs Lists, Binary Search](/Week%203/Arrays%20vs%20Lists%2C%20Binary%20Search)
+  - [Lecture 5: Efficiency](/Week%203/Efficiency)
   
