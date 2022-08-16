@@ -1,5 +1,9 @@
 # Efficiency
 
+**Table of Contents**:
+
+- [O(n) notation](#o-notation)
+
 - Measure time taken by an algorithm as a function `T(n)` with respect to input size `n`.
 - Usually report *worst case* behavior.
   - Worst case for search in a sequence is when value is not found in the sequence.
