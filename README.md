@@ -21,4 +21,4 @@ Weekly notes and programs for the Programming, Data Structures and Algorithms us
   - [Lecture 4: Arrays vs Lists, Binary Search](/Week%203/Arrays%20vs%20Lists%2C%20Binary%20Search)
   - [Lecture 5: Efficiency](/Week%203/Efficiency)
   - [Lecture 6: Selection Sort](/Week%203/Selection%20Sort)
-  
+  - [Lecture 7: Insertion Sort](/Week%203/Insertion%20Sort)
