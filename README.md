@@ -22,3 +22,5 @@ Weekly notes and programs for the Programming, Data Structures and Algorithms us
   - [Lecture 5: Efficiency](/Week%203/Efficiency)
   - [Lecture 6: Selection Sort](/Week%203/Selection%20Sort)
   - [Lecture 7: Insertion Sort](/Week%203/Insertion%20Sort)
+  - [Lecture 8: Recursion](/Week%203/Recursion)
+  
