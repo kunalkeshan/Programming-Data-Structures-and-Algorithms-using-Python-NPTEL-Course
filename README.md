@@ -23,4 +23,6 @@ Weekly notes and programs for the Programming, Data Structures and Algorithms us
   - [Lecture 6: Selection Sort](/Week%203/Selection%20Sort)
   - [Lecture 7: Insertion Sort](/Week%203/Insertion%20Sort)
   - [Lecture 8: Recursion](/Week%203/Recursion)
+- [Week 4](/Week%204)
+  - [Lecture 1: Merge Sort](/Week%204/Merge%20Sort)
   
