@@ -30,7 +30,7 @@
 ## Merge Sorting
 
 - Sort A[0:n//2]
-- Sort A[n:2//n]
+- Sort A[n//2:n]
 - Merge sorted halves into B[0:n].
 - Using recursion to sort the halves.
 
@@ -39,3 +39,26 @@
 - Break up problem into disjoint parts.
 - Solve each part separately.
 - Combine the solutions efficiently.
+
+## Merging Sorted Lists
+
+Combine two sorted lists A and B into C.
+
+- If A is empty, copy B into C.
+- If B is empty, copy A into C.
+- Otherwise, compare first element of A and B and move the smaller into C.
+- Repeat until all elements in A and B have been moved.
+
+Code: [mergesorting.py](./mergesorting.py)
+
+## Merge sort lists
+
+To sort A[0:n] into B[0:n]
+
+- If n is 1, noting to be done.
+- Otherwise,
+  - Sort A[0:n//2] into L.
+  - Sort A[n//2:n] into R.
+  - Merge L and R into B.
+
+Code: [mergesort.py](./mergesort.py)
