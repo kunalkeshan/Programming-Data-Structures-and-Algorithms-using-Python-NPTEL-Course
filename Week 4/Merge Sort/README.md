@@ -7,6 +7,8 @@
 - [Combining sorted lists](#combining-sorted-lists)
 - [Merge Sorting](#merge-sorting)
   - [Divide and Conquer](#divide-and-conquer)
+- [Merging Sorted Lists](#merging-sorted-lists)
+- [Merge sort unsorted lists](#merge-sort-lists)
 
 ## O(n^2) sorting algorithms
 
